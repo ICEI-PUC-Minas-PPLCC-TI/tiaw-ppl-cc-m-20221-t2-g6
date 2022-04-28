@@ -284,31 +284,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+> Primeiramente, estabelecemos o tema e o que poderia ser feito para soluciona-lo em um ambito geral. Após isso, estudamos os detalhes do problema e construimos nossas 
+> através de uma pesquisa com formularios para nossos conhecidos. A partir disso, debatemos os resultados e colocamos na plataforma Miro, que nós guiou para desevolver
+> a ideia de um site que seria a nossa  solução para a questão abordada. Não utilizamos ferramenta para desenvolvimento de metodologia devido as caracteristicas dos membros do grupo decidimos que seria melhor fazer do nosso jeito, envolvendo mais debate e reuniões mais pessoais. 
+
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+> A equipe está organizada do seguinte modo:
+
+-  Scrum Master: Bruno Innecco
+- Product Owner : Estudantes universitários
+- Equipe de desenvolvimento:
+
+Pedro Peixoto (Desenvolvedor Front End)
+Luccas Feres (Desenvolvedor Back End)
+Bernardo Peixoto (Analista de negócios)
+Lucca Camarano (Desenvolvedor Front End)
+Júlio Baltazar (Designer)
+
 
 
 ## Ferramentas

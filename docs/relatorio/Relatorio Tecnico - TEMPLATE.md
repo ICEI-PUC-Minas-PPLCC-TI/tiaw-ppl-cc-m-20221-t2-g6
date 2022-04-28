@@ -25,7 +25,7 @@
   - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
-  - [Problema](#problema)
+  - [Problema](#problemas)
   - [Objetivos](#objetivos)
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
@@ -59,9 +59,13 @@
 ## Problemas
 
 >Dificuldade na criação de um currículo.
+>
 >Falta de experiência em entrevistas.
+>
 >Falta de confiança e receio de entrar no mercado.
+>
 >Não conseguir contato com empresas que fornecem vagas.
+>
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -139,10 +143,27 @@
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+> **Personas:**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![cleber soares](https://user-images.githubusercontent.com/104467044/165843389-56415334-a8a7-45f2-8467-5f2827b2d06e.png)
 > 
+> ![cleber soares 1](https://user-images.githubusercontent.com/104467044/165843411-16697d4f-5f14-42db-8f48-98a65e635301.png)
+> 
+> ![cleber soares 2](https://user-images.githubusercontent.com/104467044/165843472-9374417b-fdf0-4df4-9fca-9a8ba45f4943.png)
+> **Mapa de Empatia** 
+> 
+> Cleber Soares:
+> ![mapa empatia cleber soares](https://user-images.githubusercontent.com/104467044/165845608-3f3dc161-c02e-463b-b893-3207d3541be2.PNG)
+
+> 
+> 
+> 
+> 
+
+ 
+
+
+
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 

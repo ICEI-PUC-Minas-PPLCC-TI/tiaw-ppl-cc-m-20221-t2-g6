@@ -67,21 +67,17 @@
 >Não conseguir contato com empresas que fornecem vagas.
 >
 >
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> 
 
 ## Objetivos
 
 > Criação de uma plataforma que contém vídeos explicativos e de passo a passo, dicas de pessoas que já passaram por este processo, experiências de contratantes e contratados. Conscientizar o usuário sobre certos caminhos que podem ser feitos para se destacar dos demais, ajudando nos principais problemas levantados pela pesquisa.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> 
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 >O grupo escolheu o tema de dificuldade de acesso a estágios, pois também somos alunos universitários que se interessam por esse tipo de trabalho,porém ao tentar
 > achar ofertas e oportunidades nesse ramo, encontramos varias dificuldades e problemas que, ao nosso ver, são recorrentes e pertinentes para muitos alunos em 
@@ -89,8 +85,7 @@
 > 
 >
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> 
 
 ## Público-Alvo
 
@@ -120,13 +115,7 @@ Criação de um site que oferecerá mecanicas e dicas para auxiliar o aluno univ
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
 >
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
+
 > 
 > 
 > **Personas:**
@@ -169,9 +158,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > histórias de usuário por contexto, para facilitar consultas
 > recorrentes à essa parte do documento.
 >
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> 
 
 ## Requisitos
 

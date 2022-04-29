@@ -9,7 +9,7 @@
 
 ##  Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 > - Julio Ribeiro
@@ -89,7 +89,7 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > O nosso serviço é feito para alunos universitarios que buscam vagas de estágio no Brasil inteiro. A proposta envolve criar um site que oferecerá dicas sobre como
 > essas pessoas podem se adequar mais as oportunidades que esse mercado oferece de acordo com as duvidas que esses individuos possuem e suas adequações e capacitações.
@@ -101,7 +101,7 @@
 # Especificações do Projeto
 
 Criação de um site que oferecerá mecanicas e dicas para auxiliar o aluno universitário na  busca de estágios, a plataforma oferecerá dicas e guias completos para que a pessoa possa descobrir como ingressar da melhor forma nesse mercado de acordo com suas necessidades e capacitações.
-## Personas e Mapas de Empatia
+
 
 ## Personas e Mapas de Empatia
 
@@ -168,34 +168,25 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Cleber Soares       | Preciso de uma plataforma que priorize pessoas que gostam de trabalhar sozinhos.                 | Para ajudar aquelas pessoas que são tímidas e não gostam de se socializar. |
 
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> 
-
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |
+|RF-001| O site deve apresentar um fórum de dúvidas. | MÉDIA | 
+|RF-002| O site deve apresentar vídeo aulas.| MÉDIA |
+|RF-003| O site deve apresentar uma forma de navegação simples e intuitiva | MÉDIA | 
+|RF-004| O site deve possuir informações de contato, para que o usuário receba todo o suporte possível.  | MÉDIA |
+|RF-005| O site deve oferecer uma opção de filtragem dos assuntos, para que o usuário possa achar o que lhe interessa com mais facilidade| ALTA | 
+|RF-006| O site deve possuir um sistema de login.   | MÉDIA |
+|RF-007| O site deve possuir uma atualização fácil | BAIXA | 
+|RF-008| O site deve possuir uma interface chamativa e bem desenhada   | BAIXA |
+|RF-009| O site deve apresentar um sistema de segurança confiável | BAIXA | 
+|RF-010|O site deve permitir que usuários possam deixar comentários como feedback   | BAIXA |
+|RF-011| O site deve possuir uma linguagem que via ao encontro das necessidades da persona  | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -203,28 +194,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| O sistema deve possuir um banco de dados |  ALTA | 
+|RNF-003| O sistema deve ter uma maneira de salvar e cryptografar o login de usuarios| MÉDIA | 
+|RNF-004| O desenvolvedores tem que possuir muito conhecimento na area de estagio e tudo que faz parte dessa area para trazer um bom resultado para o site|  ALTA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
 
 
 ## Restrições
@@ -235,24 +209,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| A equipe responsavel pela programação do site não possui nenhuma experiencia |
+|04| Todos do grupo deverão participar em sincronia perfeita para conseguir terminar |
+|05| O projeto exige que todos saiam da sua zona de conforto para conseguir entrega-lo |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
 
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -268,22 +235,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+https://www.figma.com/proto/6TtH5HpB0CX8F7Kk7oEDFR/Wireframing-in-Figma?node-id=0%3A724&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A817&show-proto-sidebar=1
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+
 
 
 # Metodologia
@@ -305,21 +259,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 - Product Owner : Estudantes universitários
 - Equipe de desenvolvimento:
 
-Pedro Peixoto (Desenvolvedor Front End)
-
-Luccas Feres (Desenvolvedor Back End)
-
-Bernardo Peixoto (Analista de negócios)
-
-Lucca Camarano (Desenvolvedor Front End)
-
-Júlio Baltazar (Designer)
+|ALUNO|RESPONSAVEL POR|
+|------|----------------|
+|Pedro Peixoto| (Desenvolvedor Front End)|
+|Luccas Feres |(Desenvolvedor Back End)|
+|Bernardo Peixoto| (Analista de negócios)|
+|Lucca Camarano |(Desenvolvedor Front End)|
+|Júlio Baltazar |(Designer)|
 
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|

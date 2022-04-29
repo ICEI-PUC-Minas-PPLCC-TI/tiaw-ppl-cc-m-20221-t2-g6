@@ -127,8 +127,20 @@ Criação de um site que oferecerá mecanicas e dicas para auxiliar o aluno univ
 > ![cleber soares 2](https://user-images.githubusercontent.com/104467044/165843472-9374417b-fdf0-4df4-9fca-9a8ba45f4943.png)
 > **Mapa de Empatia** 
 > 
+> kauã Lopez:
+> ![mapa empatia kaua](https://user-images.githubusercontent.com/104467044/165864492-00b6bb2c-9e65-49ee-bace-1fcd937ac3f4.PNG)
+> 
+> 
 > Cleber Soares:
 > ![mapa empatia cleber soares](https://user-images.githubusercontent.com/104467044/165845608-3f3dc161-c02e-463b-b893-3207d3541be2.PNG)
+> 
+> 
+> Henry Ferrari:
+> ![henry](https://user-images.githubusercontent.com/104467044/165864575-ffd81700-2f69-4915-90aa-eceb8f1fa9fe.PNG)
+
+> 
+
+
 
 > 
 > 
@@ -148,8 +160,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Cleber Soares       | Preciso de uma plataforma eficiente e de fácil manuseio.           |Para conseguir minha primeira vaga como estagiário.               |
+|Cleber Soares       | Emprego de estagiário na parte da tarde/noite                 | Para conseguir estudar de manhã e trabalhar de tarde/noite. |
+|Kauã Lopez          | Ver vagas de estágio concentradas em um só lugar            | Otimizar o tempoo gasto analisando as informações e não perder as oportunidades do mercado.               |
+|Henry Ferrari (empresário)| Um direcionamento adequado para conectar estagiários à sua empresa                  | Para conseguir uma mão de obra qualificada, e não ficar perdendo tempo pesquisando muito no mercado para contratar alguém |
+|Clymene Pinto Souza  | Plataforma simples de fácil manuseio  para criação de currículos            | Devido à falta de informação para criar o primeiro currículo               |
+|Cleber Soares       | Preciso de uma plataforma que priorize pessoas que gostam de trabalhar sozinhos.                 | Para ajudar aquelas pessoas que são tímidas e não gostam de se socializar. |
+
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -170,6 +187,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -230,21 +256,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+![user flow (1)](https://user-images.githubusercontent.com/104467044/165864629-19259f33-4cb6-47e4-a0a3-86d77e86dde5.png)
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
+
 >
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
-> **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+>
+> 
 
 
 ## Wireframes
@@ -287,9 +306,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 - Equipe de desenvolvimento:
 
 Pedro Peixoto (Desenvolvedor Front End)
+
 Luccas Feres (Desenvolvedor Back End)
+
 Bernardo Peixoto (Analista de negócios)
+
 Lucca Camarano (Desenvolvedor Front End)
+
 Júlio Baltazar (Designer)
 
 

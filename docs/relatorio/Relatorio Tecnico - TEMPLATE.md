@@ -292,12 +292,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 Nosso grupo decidiu utilizar a ferramenta "Visual Studio Code" por ser mais simples e por ser compativel com o github, facilitando a contrução do projeto.
 A maior parte de nosso site se encontra no estagio "Brunch".
 
-# **############## SPRINT 1 ACABA AQUI #############**
+
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Criação de plataforma web que busca auxiliar estudantes universitarios que se encontram com problemas na busca de estágios. Ofereceremos dicas, guias com videos e textos, além de templates de curriculos para ajudar.
 
 ## Tecnologias Utilizadas
 
@@ -310,6 +310,7 @@ A maior parte de nosso site se encontra no estagio "Brunch".
 > Apresente também uma figura explicando como as tecnologias estão
 > relacionadas ou como uma interação do usuário com o sistema vai ser
 > conduzida, por onde ela passa até retornar uma resposta ao usuário.
+> Utilizamos a ferramenta Visual studio Code para programar com as linguagens HTML, CSS e javascript. Esses codigos foram utilizados para montar toda a infraestrutura visivel e nao visivel do site, criando sua identidade e suas respectivas Funçoes. Utilizamos da API de javascript Landbot para criar um robo de chat interativo que auxilio o usuario no uso da plataforma. Além disso, utilizamos o figma para criar os wireframes da aplicacao e o Miro para definir as estapas do design thinking. O repl it foi utilizado para hospedar o site e o JSON foi usado para definirmos o carregamento dos dados de login e cadastro.
 > 
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
@@ -328,7 +329,7 @@ A maior parte de nosso site se encontra no estagio "Brunch".
 > ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
-# Avaliação da Aplicação
+# Registro de testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -350,9 +351,7 @@ A maior parte de nosso site se encontra no estagio "Brunch".
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Comente sobre as ferramentas de testes utilizadas.
 > 
@@ -360,14 +359,11 @@ A maior parte de nosso site se encontra no estagio "Brunch".
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
-## Registros de Testes
+## Avaliação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+A plataforma foi criada com exito, porém encontramos dificuldades 
 
 
 # Referências

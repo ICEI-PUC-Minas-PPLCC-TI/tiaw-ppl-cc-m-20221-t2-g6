@@ -306,15 +306,11 @@ Criação de plataforma web que busca auxiliar estudantes universitarios que se 
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
+O diagrama mostra que utilizamos o HTML CSS e javascript para criar a parte visivel do site, ja para a parte de back end utilizamos o JSON  e LOCAl STORAGE para salvar os dados necessarios. Ao fim de tudo isso, hospedamos o site no repl.it para que todos possam utiliza-lo.
+
+![arq](https://user-images.githubusercontent.com/104593104/177886879-d4a8dfb2-7fdd-443c-9e56-ab7cef2f0118.png)
 
 
 ## Plano de Testes
@@ -334,13 +330,3 @@ Apos uma serie de testes e correcao de bugs conseguimos resolver os problemas cr
 A plataforma foi criada com exito, porém encontramos dificuldades devido ao nosso pouco conhecimento tecnico no inicio do semestre, além do conflito entre as outras disciplinas do curso. Apesar disso, conseguimos chegar a uma aplicação que nos agradasse mesmo depois dos problemas enfrentados. A ideia do que fazer com o tema selecionado também foi conflituosa, mas no final chegamos a uma conclusão satisfatoria para todos integrantes do grupo.
 
 
-# Referências
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)

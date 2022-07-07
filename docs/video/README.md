@@ -1,8 +1,1 @@
-# Vídeos do Projeto
-A relação abaixo lista os vídeos feitos para o projeto:
- - [Vídeo AAAAAAAA]()
- - [Vídeo BBBBBBBB]()
-
-> Nesta pasta inclua arquivos de vídeo produzidos para divulgação do 
-> projeto e seus resutados.
-
+Video esta no arquivo de texto, como o video ficou pesado nao foi possivel coloca-lo no github entao esta no link no arquivo de texto. 

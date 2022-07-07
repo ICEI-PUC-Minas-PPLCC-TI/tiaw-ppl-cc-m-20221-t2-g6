@@ -249,11 +249,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Primeiramente, estabelecemos o tema e o que poderia ser feito para soluciona-lo em um ambito geral. Após isso, estudamos os detalhes do problema e construimos nossas 
-> através de uma pesquisa com formularios para nossos conhecidos. A partir disso, debatemos os resultados e colocamos na plataforma Miro, que nós guiou para desevolver
-> a ideia de um site que seria a nossa  solução para a questão abordada. Não utilizamos ferramenta para desenvolvimento de metodologia devido as caracteristicas dos membros do grupo decidimos que seria melhor fazer do nosso jeito, envolvendo mais debate e reuniões mais pessoais. 
+
+ Primeiramente, estabelecemos o tema e o que poderia ser feito para soluciona-lo em um ambito geral. Após isso, estudamos os detalhes do problema e construimos nossas  através de uma pesquisa com formularios para nossos conhecidos. A partir disso, debatemos os resultados e colocamos na plataforma Miro, que nós guiou para desevolver
+ a ideia de um site que seria a nossa  solução para a questão abordada. Não utilizamos ferramenta para desenvolvimento de metodologia devido as caracteristicas dos membros do grupo decidimos que seria melhor fazer do nosso jeito, envolvendo mais debate e reuniões mais pessoais. 
 
 
 ## Divisão de Papéis
@@ -301,21 +300,9 @@ Criação de plataforma web que busca auxiliar estudantes universitarios que se 
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> Utilizamos a ferramenta Visual studio Code para programar com as linguagens HTML, CSS e javascript. Esses codigos foram utilizados para montar toda a infraestrutura visivel e nao visivel do site, criando sua identidade e suas respectivas Funçoes. Utilizamos da API de javascript Landbot para criar um robo de chat interativo que auxilio o usuario no uso da plataforma. Além disso, utilizamos o figma para criar os wireframes da aplicacao e o Miro para definir as estapas do design thinking. O repl it foi utilizado para hospedar o site e o JSON foi usado para definirmos o carregamento dos dados de login e cadastro.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+
+ Utilizamos a ferramenta Visual studio Code para programar com as linguagens HTML, CSS e javascript. Esses codigos foram utilizados para montar toda a infraestrutura visivel e nao visivel do site, criando sua identidade e suas respectivas Funçoes. Utilizamos da API de javascript Landbot para criar um robo de chat interativo que auxilio o usuario no uso da plataforma. Além disso, utilizamos o figma para criar os wireframes da aplicacao e o Miro para definir as estapas do design thinking. O repl it foi utilizado para hospedar o site e o JSON foi usado para definirmos o carregamento dos dados de login e cadastro.
 
 ## Arquitetura da solução
 
@@ -329,41 +316,22 @@ Criação de plataforma web que busca auxiliar estudantes universitarios que se 
 > ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
-# Registro de testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+1 - TELA DE LOGIN E CADASTRO
+Desenvolvimos a tela de login e cadastro utilizando local storage e JSON, e após uma serie de testes com usuarios nos conseguimos solucionar os problemas que encontramos principalmente devido a falta de informaçoes sobre o que fazer.
+2- Telas de conteudo e mecanicas javascript
+Apos uma serie de testes e correcao de bugs conseguimos resolver os problemas criados nas paginas de conteudo devido ao javascript que implementamos, que devido a nosso pouco tempo de conhecimento da linguagem acabaram ocorrendo, porém no final tudo foi resolvido como buscavamos.
 
 
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Avaliação
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-A plataforma foi criada com exito, porém encontramos dificuldades 
+A plataforma foi criada com exito, porém encontramos dificuldades devido ao nosso pouco conhecimento tecnico no inicio do semestre, além do conflito entre as outras disciplinas do curso. Apesar disso, conseguimos chegar a uma aplicação que nos agradasse mesmo depois dos problemas enfrentados. A ideia do que fazer com o tema selecionado também foi conflituosa, mas no final chegamos a uma conclusão satisfatoria para todos integrantes do grupo.
 
 
 # Referências
